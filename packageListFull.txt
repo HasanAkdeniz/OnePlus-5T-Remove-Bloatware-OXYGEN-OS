@@ -55,6 +55,11 @@ pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 pm uninstall -k --user 0 com.google.android.apps.safetyhub
 pm uninstall -k --user 0 com.google.android.apps.chromecast.app
 pm uninstall -k --user 0 com.google.android.apps.podcasts
+pm uninstall -k --user 0 com.google.android.apps.tips
+pm uninstall -k --user 0 com.google.android.webview
+pm uninstall -k --user 0 com.google.android.ims
+pm uninstall -k --user 0 com.google.android.as
+pm uninstall -k --user 0 com.google.pixel.livewallpaper
 pm uninstall -k --user 0 "com.dsi.ant.server"
 pm uninstall -k --user 0 "com.example.tmo"
 pm uninstall -k --user 0 "com.example.wifirftest"
